@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foimga.github.io/WRv/sitemap.WRv
